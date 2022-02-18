@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TallyBook/static/css/main.25afd52e.css",
+    "main.js": "/TallyBook/static/js/main.97e9ff66.js",
+    "index.html": "/TallyBook/index.html",
+    "main.25afd52e.css.map": "/TallyBook/static/css/main.25afd52e.css.map",
+    "main.97e9ff66.js.map": "/TallyBook/static/js/main.97e9ff66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25afd52e.css",
+    "static/js/main.97e9ff66.js"
+  ]
+}
